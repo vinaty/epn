@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="20mm"
+   height="20mm"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="dessin.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4529">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop4525" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0;"
+         offset="1"
+         id="stop4527" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4529"
+       id="linearGradient4531"
+       x1="31.492176"
+       y1="93.36763"
+       x2="38.274372"
+       y2="93.36763"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.7693954"
+     inkscape:cx="35.460881"
+     inkscape:cy="34.385568"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     units="mm"
+     width="15mm"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-277)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76636219px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000000;stroke-width:0.19415905;stroke-opacity:1;"
+       x="3.1109867"
+       y="219.28166"
+       id="text3702"
+       transform="scale(0.74594311,1.3405848)"><tspan
+         sodipodi:role="line"
+         id="tspan3700"
+         x="3.1109867"
+         y="219.28166"
+         style="font-size:12.42617893px;fill:#000080;stroke-width:0.19415905;stroke:#000000;stroke-opacity:1;">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.9686842px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2242171;stroke-opacity:1;"
+       x="7.2717714"
+       y="251.22343"
+       id="text3706"
+       transform="scale(0.85438823,1.1704281)"><tspan
+         sodipodi:role="line"
+         id="tspan3704"
+         x="7.2717714"
+         y="251.22343"
+         style="font-size:14.34989452px;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0.2242171;stroke-opacity:1;">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.11164856px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:#000000;stroke-width:0.17779125;stroke-opacity:1;"
+       x="7.4092965"
+       y="310.15427"
+       id="text3718"
+       transform="scale(1.0548158,0.94803286)"><tspan
+         sodipodi:role="line"
+         id="tspan3716"
+         x="7.4092965"
+         y="310.15427"
+         style="fill:#d40000;stroke-width:0.17779125;stroke:#000000;stroke-opacity:1;">N</tspan></text>
+  </g>
+</svg>
